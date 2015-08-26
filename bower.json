@@ -1,0 +1,18 @@
+{
+  "name": "cxx-image",
+  "version": "0.0.0",
+  "homepage": "https://github.com/tsu-complete/cxx-image",
+  "authors": [
+    "tsukumo"
+  ],
+  "description": "image structure for c++",
+  "main": "index.hxx",
+  "license": "MIT",
+  "ignore": [
+    "**/*",
+    "!index.hxx"
+  ],
+  "dependencies": {
+    "cxx-array": "tsu-complete/cxx-array#~0.0.0"
+  }
+}
